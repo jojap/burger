@@ -1,0 +1,44 @@
+body {
+    background-image: url("../img/burger-background.jpg");
+    background-size: 200px;
+    color: darkbrown;
+}
+
+.card {
+    background-color: rgba(255,255,255,0.75);
+    border-radius: 10px;
+}
+
+.card-header {
+    text-align: center;
+}
+
+.jumbotron {
+    background-color: sandybrown;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+
+#addBurger {
+    background-color: sandybrown;
+    margin-bottom: 50px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+
+#burgersToEat {
+    background-color: pink;
+}
+
+.list-group-item {
+    background-color: saddlebrown;
+    color: white;
+}
+
+button {
+    color: black;
+}
+
+#burgersEaten {
+    background-color: red;
+}
