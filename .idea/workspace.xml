@@ -1,30 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ee887d1-8775-43e9-9c60-166167e31d30" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/burger-background.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.env" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/burger.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/config.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/connection.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/orm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controllers/burgers_controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/schema.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/seeds.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/burger.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/burger_style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/burgers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/index.handlebars" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/layouts/main.handlebars" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/partials/burgers/burger-block.handlebars" />
-    </list>
+    <list default="true" id="0ee887d1-8775-43e9-9c60-166167e31d30" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -182,8 +159,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="6" />
-    <option name="y" value="369" />
+    <option name="x" value="242" />
+    <option name="y" value="534" />
     <option name="width" value="1942" />
     <option name="height" value="993" />
   </component>
@@ -288,7 +265,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tcg-deck-builder" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
   </component>
@@ -320,15 +297,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511288534924</updated>
-      <workItem from="1511288537165" duration="3552000" />
+      <workItem from="1511288537165" duration="4772000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3552000" />
+    <option name="totallyTimeSpent" value="4772000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="6" y="369" width="1942" height="993" extended-state="0" />
+    <frame x="242" y="534" width="1942" height="993" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
